@@ -1,0 +1,6 @@
+{
+  "name": "FinSuite - Financial Management & Analytics",
+  "description": "Maximize your financial potential with FinSuite. Comprehensive analytics, instant multi-currency transfers, expense tracking, and card management with fluid interactive animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
